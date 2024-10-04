@@ -1,0 +1,13 @@
+C:\Users\labc205\Desktop\Sesion14\WindowsFormsApp1\obj\Debug\Archivo.csproj.AssemblyReference.cache
+C:\Users\labc205\Desktop\Sesion14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\labc205\Desktop\Sesion14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\labc205\Desktop\Sesion14\WindowsFormsApp1\obj\Debug\Archivo.csproj.GenerateResource.cache
+C:\Users\labc205\Desktop\Sesion14\WindowsFormsApp1\obj\Debug\Archivo.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\Sesion14\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\labc205\Desktop\Sesion14\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\labc205\Desktop\Sesion14\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\labc205\Desktop\Sesion14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\labc205\Desktop\Sesion14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\labc205\Desktop\Sesion14\ArchivoForm\obj\Debug\Archivo.csproj.AssemblyReference.cache
+C:\Users\labc205\Desktop\Sesion14\ArchivoForm\obj\Debug\WindowsFormsApp1.exe
+C:\Users\labc205\Desktop\Sesion14\ArchivoForm\obj\Debug\WindowsFormsApp1.pdb
